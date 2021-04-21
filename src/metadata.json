@@ -1,10 +1,10 @@
 {
-  "description": "Bring back the transparent top bar when free-floating in GNOME Shell 3.32.\n\nThis basically comes from the feature implementation removed in GNOME Shell 3.32, and I modified the code a bit to make it an extension. Enjoy!",
-  "name": "Transparent Top Bar",
+  "description": "This is an extension that makes the top bar detach from the screen's borders when it is free floating. It is based off of the Transparent Top Bar extension by zhanghai.",
+  "name": "Floating Top Bar",
   "shell-version": [
     "3.38",
     "40"
   ],
-  "url": "https://github.com/zhanghai/gnome-shell-extension-transparent-top-bar",
-  "uuid": "transparent-top-bar@zhanghai.me"
+  "url": "https://github.com/jacob-w-gable/floating-top-bar",
+  "uuid": "floating-top-bar@jacob-w-gable.github.io"
 }
