@@ -19,6 +19,7 @@
 	margin-left: 32px;
 	margin-right: 32px;
 }
+
 #panel.transparent-top-bar--transparent .panel-corner {
     -panel-corner-background-color: rgba(0, 0, 0, 0.3);
 }
